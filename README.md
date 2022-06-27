@@ -1,4 +1,4 @@
-# Assignment 02
+# 💻 Assignment 02
 
 ## Requirements
 - Use functions to: `read a complex number` from the console, `write a complex number` to the console, implement `each required functionality`.
